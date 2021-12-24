@@ -27,17 +27,5 @@ Soak the dried fruits in 4 tablespoons brandy for 3-7 days (or longer).  If pref
 5. Pour into a 9-inch square tin, bake in a preheated oven of 175 deg C for 45 min , lower temp to 160 deg C and bake for a further 30 min.
 
 ** This recipe can also fit into 2 x 8-inch round tin or make into 200 pcs mini cup cakes.**
-### Steps
-1. do this
-2. do that
-
-## Section 2
-### Ingredients
-- 30g of this
-- 40g of that
-
-### Steps
-1. do this
-2. do that
 
 [Back to homepage](https://ah-jia.github.io/)
